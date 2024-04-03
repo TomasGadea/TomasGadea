@@ -17,7 +17,7 @@
   * 🏅 [20km Lausanne](https://www.20km.ch/) (Apr 2023)
   * 🏅 [Behobia - San Sebastián](https://www.behobia-sansebastian.com/en/) (Nov 2023)
   * 🏅 [Mitja Marató Barcelona](https://edreamsmitjabarcelona.com/en/?_gl=1%2A2ch6nc%2A_gcl_au%2AMTU4ODY0ODMyNS4xNzEyMTY4ODE1) (Feb 2024)
-* Basketball player for [C.E.Laietà](https://laieta.cat/) 🏀
+* Basketball player for 17 years 🏀
 
 🙌 Get in Touch:
 * [LinkedIn](https://www.linkedin.com/in/tomas-gadea/)
