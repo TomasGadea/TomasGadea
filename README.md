@@ -11,6 +11,7 @@
 * [Neural Arquitecture Search For Efficient MLP-based Networks](https://github.com/TomasGadea/MLP-NAS)
 * [Leetcode-like UPC problems solved](https://github.com/TomasGadea/Jutge-AP2)
 
+
 🏃‍♂️ Hobbies I love to do:
 * Running
   * 🏆 [Zurich Marató Barcelona](https://www.zurichmaratobarcelona.es/) (Mar 2023)
