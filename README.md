@@ -7,7 +7,7 @@
 * Visiting Researcher @ [EPFL](https://www.epfl.ch/en/) (9 months).
 * Data Analyst and Backend Engineer @ [Fermat (ƒ)](https://fermat.app/) (1 year 2 months).
 
-⚙️ Some of my public projects are:
+⚙️ Some of my _public_ projects are:
 * [Neural Arquitecture Search For Efficient MLP-based Networks](https://github.com/TomasGadea/MLP-NAS)
 * [Leetcode-like UPC problems solved](https://github.com/TomasGadea/Jutge-AP2)
 
