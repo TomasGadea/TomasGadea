@@ -14,7 +14,7 @@
 
 🏃‍♂️ Hobbies I love to do:
 * Running 🏆 (10k, 20k, 21k, 42k)
-* Basketball player in the Catalan League 🏀 (17 years)
+* Basketball player in the Catalan League 🏀 (2008 - 2024)
 
 🙌 Get in Touch:
 * [LinkedIn](https://www.linkedin.com/in/tomas-gadea/)
