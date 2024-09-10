@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Tomas Gadea!
 
 🔭 I’m currently working as:
-* Data Scientist @ [Dribia Data Research](https://dribia.com/en/) (8 months).
+* Data Scientist @ [Dribia Data Research](https://dribia.com/en/) (10 months).
 
 👨‍💻 I have previously worked on:
 * Visiting Researcher @ [EPFL](https://www.epfl.ch/en/) (9 months).
