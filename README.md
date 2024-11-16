@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Tomas Gadea!
 
 🔭 I’m currently working as:
+* ML Researcher @ [UPC](https://www.upc.edu/en?set_language=en) and [Qualcomm](https://www.qualcomm.com/) (Sep 24 to present...).
 * Data Scientist @ [Dribia Data Research](https://dribia.com/en/) (Nov 23 to present...).
 
 👨‍💻 I have previously worked on:
