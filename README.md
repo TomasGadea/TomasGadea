@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Tomas Gadea!
 
 🔭 I’m currently working as:
-* [ETH](https://ethz.ch/en.html) and [UZH](https://www.uzh.ch/de.html) CS master student (AI and Data Science, Sep 2025 to present...).
+* <img width="1560" height="243" alt="image" src="https://github.com/user-attachments/assets/bed35614-324e-4963-9c6f-e6c2bf3301f9" />
+ [ETH](https://ethz.ch/en.html) and [UZH](https://www.uzh.ch/de.html) CS master student (AI and Data Science, Sep 2025 to present...).
 * Data Engineer @ [Algrano AG](https://algrano.com/) (Jul 2025 to present...).
 
 👨‍💻 I have previously worked on:
