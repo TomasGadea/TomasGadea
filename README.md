@@ -1,11 +1,13 @@
 ### Hi 👋, I'm Tomas Gadea!
 
 🔭 I’m currently working as:
-* ML Researcher @ [UPC](https://www.upc.edu/en?set_language=en) and [Qualcomm](https://www.qualcomm.com/) (Sep 2024 to present...).
-* Data Scientist @ [Dribia Data Research](https://dribia.com/en/) (Nov 2023 to present...).
+* [ETH](https://ethz.ch/en.html) and [UZH](https://www.uzh.ch/de.html) CS master student (AI and Data Science, Sep 2025 to present...).
+* Data Engineer @ [Algrano AG](https://algrano.com/) (Jul 2025 to present...).
 
 👨‍💻 I have previously worked on:
-* Visiting Researcher @ [EPFL](https://www.epfl.ch/en/) (9 months).
+* ML Researcher @ [UPC](https://www.upc.edu/en?set_language=en) and [Qualcomm](https://www.qualcomm.com/) (8 months).
+* Data Scientist @ [Dribia Data Research](https://dribia.com/en/) (1 year 9 months).
+* Visiting Researcher @ [EPFL](https://www.epfl.ch/en/) (10 months).
 * Data Analyst and Backend Engineer @ [Fermat (ƒ)](https://fermat.app/) (1 year 2 months).
 
 ⚙️ Some of my _public_ projects are:
