@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Tomas Gadea!
 
 🔭 I’m currently working as:
-* [<img height="13" valign="center" alt="image" src="https://github.com/user-attachments/assets/8c805c82-0b0f-413f-8e34-20de1dfdc000" />](https://ethz.ch/en.html) and [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/4c009e93-016c-48e1-824c-012e3e6927ab" />](https://www.uzh.ch/de.html) CS master student (AI and Data Science, Sep 2025 to present...).
+
+* [<img height="40" valign="middle" alt="image" src="https://github.com/user-attachments/assets/41110f0b-892f-4eef-b50e-5c77ca50c7fb" />](https://ethz.ch/en.html) and [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/4c009e93-016c-48e1-824c-012e3e6927ab" />](https://www.uzh.ch/de.html) CS master student (AI and Data Science, Sep 2025 to present...).
 * Data Engineer @ [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/d2bec4a3-3735-4c1e-9658-9ddf919f509d" />](https://algrano.com/) [Algrano AG](https://algrano.com/) (Jul 2025 to present...).
 
 👨‍💻 I have previously worked on:
