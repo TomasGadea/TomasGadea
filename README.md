@@ -1,15 +1,15 @@
 ### Hi 👋, I'm Tomas Gadea!
 
-🔭 I’m currently working as:
+I’m currently working as:
 
-* [<img height="40" valign="middle" alt="image" src="https://github.com/user-attachments/assets/41110f0b-892f-4eef-b50e-5c77ca50c7fb" />](https://ethz.ch/en.html) and [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/4c009e93-016c-48e1-824c-012e3e6927ab" />](https://www.uzh.ch/de.html) CS master student (AI and Data Science, Sep 2025 to present...).
-* Data Engineer @ [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/d2bec4a3-3735-4c1e-9658-9ddf919f509d" />](https://algrano.com/) [Algrano AG](https://algrano.com/) (Jul 2025 to present...).
+* MSc in Computer Science at [<img height="45" valign="middle" alt="image" src="https://github.com/user-attachments/assets/41110f0b-892f-4eef-b50e-5c77ca50c7fb" />](https://ethz.ch/en.html) [ETH Zürich](https://ethz.ch/en.html) and [<img height="40" valign="middle" alt="image" src="https://github.com/user-attachments/assets/4473ff60-c181-45c4-a4d4-bab503440e15" />](https://www.uzh.ch/en.html) [University of Zürich](https://www.uzh.ch/en.html) (AI and Data Science, Sep 2025 to present...).
+* Data Engineer at [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/d2bec4a3-3735-4c1e-9658-9ddf919f509d" />](https://algrano.com/) [Algrano AG](https://algrano.com/) (Jul 2025 to present...).
 
-👨‍💻 I have previously worked on:
-* ML Researcher @ [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/f44889ed-3c8c-4b2c-9aff-5830fbe6f888"/>](https://www.upc.edu/en?set_language=en) [UPC](https://www.upc.edu/en?set_language=en) and  [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/712f3a0d-b10e-4a2f-8323-968ac8243633" />](https://www.qualcomm.com/) [Qualcomm](https://www.qualcomm.com/) (8 months).
-* Data Scientist @ [Dribia Data Research](https://dribia.com/en/) (1 year 9 months).
-* Visiting Researcher @ [EPFL](https://www.epfl.ch/en/) (10 months).
-* Data Analyst and Backend Engineer @ [Fermat (ƒ)](https://fermat.app/) (1 year 2 months).
+I have previously worked on:
+* ML Researcher at [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/f44889ed-3c8c-4b2c-9aff-5830fbe6f888"/>](https://www.upc.edu/en?set_language=en) [UPC](https://www.upc.edu/en?set_language=en) and  [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/712f3a0d-b10e-4a2f-8323-968ac8243633" />](https://www.qualcomm.com/) [Qualcomm](https://www.qualcomm.com/) (8 months).
+* Data Scientist at [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/f37451dd-cdcf-4de0-bada-ec84250ff63d" />](https://dribia.com/en/) [Dribia Data Research](https://dribia.com/en/) (1 year 9 months).
+* Visiting Researcher at [<img height="50" valign="middle" alt="image" src="https://github.com/user-attachments/assets/da51d658-12c8-433a-9090-927e13870ba9" />](https://www.epfl.ch/en/) [École polytechnique fédérale de Lausanne](https://www.epfl.ch/en/) (10 months).
+* Data Analyst and Software Engineer at [<img height="25" valign="middle" alt="image" src="https://github.com/user-attachments/assets/ce6c9fd6-b28b-448f-9b47-e59132db7912" />](https://fermat.app/) [Fermat (ƒ)](https://fermat.app/) (1 year 2 months).
 
 ⚙️ Some of my _public_ projects are:
 * [Neural Arquitecture Search For Efficient MLP-based Networks](https://github.com/TomasGadea/MLP-NAS)
