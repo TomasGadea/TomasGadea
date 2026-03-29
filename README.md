@@ -1,3 +1,3 @@
 ### Hi 👋, I'm Tomas Gadea!
 
-check me out on tomasgadea.com
+check me out on [tomasgadea.com](tomasgadea.com)
